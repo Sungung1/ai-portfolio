@@ -1,56 +1,61 @@
-# AI Engineer Portfolio - Sungwoong Jang
+# AI Portfolio
 
-AI engineer focused on practical computer vision systems, applied NLP, and clean product-facing delivery.
+Professional GitHub portfolio for Sungwoong Jang, focused on applied AI, computer vision, and practical ML system delivery.
 
-## Introduction
+## Overview
 
-This portfolio organizes projects into clear categories and highlights work that is most relevant to AI engineering roles: deployable computer vision applications, language modeling projects, and production-minded web systems.
+This repository is the portfolio index for the `Sungung1` GitHub account. It groups projects into clear categories so recruiters, collaborators, and hiring managers can quickly find relevant work.
 
-## Computer Vision Projects
+## Categories
 
-### Worker Posture Analysis
+### Computer Vision
 
-- Repository: `worker-posture-analysis`
-- Focus: pose estimation, joint-angle analysis, worker safety monitoring
+- `worker-posture-analysis`: human pose estimation and posture-risk analysis for worker safety
+- `road-damage-detection`: YOLO-based road-surface defect detection with a Flask demo
+- `agriculture-detection`: agriculture-focused image analysis product prototype
+- `capstone-vision-project`: capstone project for wearable sensor data collection and gesture workflow experimentation
+- `HigherHRNet-Human-Pose-Estimation`: upstream research implementation reference fork
+- `dacon_struct`: structural stability AI project under active reorganization
 
-### Road Damage Detection
+### NLP
 
-- Repository: `road-damage-detection`
-- Focus: YOLO-based defect localization for infrastructure inspection
+- `news-summary-nlp`: Korean news summarization using BERT, KoBART, and Seq2Seq pipelines
 
-### Agriculture Detection
+### Web
 
-- Repository: `agriculture-detection`
-- Focus: agriculture product prototype for crop-image analysis workflows
+- `hyundai-builder-web`: frontend and product-oriented web application work
+- `moneylab`: web application practice and service experimentation
+- `sungung1.github.io`: personal GitHub Pages site
 
-## NLP Projects
+### Experiments
 
-### News Summary NLP
+- `experiments`: consolidated practice repository for small projects and coursework
+- `DataStructure1`: legacy data structure coursework
+- `mycalculator`: basic calculator project and C practice
 
-- Repository: `news-summary-nlp`
-- Focus: Korean news summarization with BERT, KoBART, and Seq2Seq models
+## Featured Projects
 
-## Web Projects
-
-### Hyundai Builder Web
-
-- Repository: `hyundai-builder-web`
-- Focus: polished TypeScript web application architecture and frontend delivery
-
-## Practice And Experiments
-
-- `experiments`
-- `dacon_struct`
+- Worker Posture Analysis
+- Road Damage Detection
+- Agriculture Detection
+- Capstone Vision Project
+- News Summary NLP
 
 ## Tech Stack
 
 - Python
 - PyTorch
+- TensorFlow
 - OpenCV
 - YOLO
-- Deep Learning
-- Machine Learning
-- TensorFlow
 - Flask
-- TypeScript
-- Next.js
+- Fast prototyping with notebooks and scripts
+- HTML, CSS, JavaScript, TypeScript
+
+## Usage
+
+Use this repository as the portfolio entry point, then open the individual project repositories for implementation details, demos, training scripts, and model results.
+
+## Results
+
+The GitHub account is organized into AI, NLP, web, and experiments categories with professional repository naming and a dedicated profile README for presentation.
